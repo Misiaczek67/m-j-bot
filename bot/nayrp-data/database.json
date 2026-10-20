@@ -1,0 +1,113 @@
+{
+  "fines": [
+    {
+      "id": "MANDAT-MVE60KYT",
+      "createdAt": "2026-10-18T18:34:53.861Z",
+      "createdBy": "1480628069579493478",
+      "createdByTag": "kg.47",
+      "fields": [
+        {
+          "name": "Osoba ukarana",
+          "value": "adasd"
+        },
+        {
+          "name": "Kwota",
+          "value": "5000 $"
+        },
+        {
+          "name": "Powód",
+          "value": "asdasd"
+        },
+        {
+          "name": "Numer odznaki",
+          "value": "202"
+        }
+      ]
+    }
+  ],
+  "wanted": [],
+  "verdicts": [],
+  "proofs": [
+    {
+      "id": "DOKUMENT-MVE5YYP7",
+      "createdAt": "2026-10-18T18:33:38.347Z",
+      "createdBy": "1480628069579493478",
+      "createdByTag": "kg.47",
+      "fields": [
+        {
+          "name": "Imię i nazwisko",
+          "value": "sadas"
+        },
+        {
+          "name": "Data",
+          "value": "asdasd"
+        },
+        {
+          "name": "Opis postaci",
+          "value": "asdasd"
+        },
+        {
+          "name": "Plan rozwoju",
+          "value": "adasd"
+        }
+      ]
+    }
+  ],
+  "warns": [],
+  "praises": [
+    {
+      "id": "POCH-MVE64T60",
+      "userId": "1536805053145423944",
+      "reason": "dobra typ",
+      "createdBy": "1480628069579493478",
+      "createdAt": "2026-10-18T18:38:11.112Z"
+    },
+    {
+      "id": "POCH-MVE653BQ",
+      "userId": "1480628069579493478",
+      "reason": "sadasd",
+      "createdBy": "1480628069579493478",
+      "createdAt": "2026-10-18T18:38:24.278Z"
+    }
+  ],
+  "hours": {},
+  "shifts": {},
+  "vacations": [
+    {
+      "id": "URLOP-MVE669VD",
+      "userId": "1480628069579493478",
+      "duration": "asdas",
+      "reason": "dadasd",
+      "status": "oczekuje",
+      "createdAt": "2026-10-18T18:39:19.417Z"
+    },
+    {
+      "id": "URLOP-MVGSVS2W",
+      "userId": "1480628069579493478",
+      "duration": "sad",
+      "reason": "asd",
+      "status": "oczekuje",
+      "createdAt": "2026-10-20T14:50:33.320Z"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "TICKET-MVE5UNZ8",
+      "channelId": "1561446337642233866",
+      "userId": "1480628069579493478",
+      "type": "pomoc",
+      "status": "open",
+      "claimedBy": null,
+      "createdAt": "2026-10-18T18:30:17.828Z"
+    },
+    {
+      "id": "TICKET-MVE69CDN",
+      "channelId": "1561449210090487928",
+      "userId": "1536805053145423944",
+      "type": "pomoc",
+      "status": "open",
+      "claimedBy": null,
+      "createdAt": "2026-10-18T18:41:42.635Z"
+    }
+  ]
+}

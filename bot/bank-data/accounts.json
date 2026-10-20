@@ -1,0 +1,35 @@
+{
+  "nextAccount": 100004,
+  "users": {
+    "1480628069579493478": {
+      "number": "100001",
+      "cash": 1000,
+      "balance": 4500,
+      "history": [
+        "16.10.2026, 23:23 • Przelew do 2k7y_: -$500."
+      ],
+      "lastHourlyPay": 1792184392905
+    },
+    "[object Object]": {
+      "number": "100002",
+      "cash": 1000,
+      "balance": 0,
+      "history": [
+        {
+          "title": "Dodano przez administratora: +$5000",
+          "date": "2026-10-16T20:59:36.620Z"
+        }
+      ],
+      "lastHourlyPay": 1792184376620
+    },
+    "1318648700993540218": {
+      "number": 100003,
+      "cash": 1000,
+      "balance": 500,
+      "history": [
+        "16.10.2026, 23:23 • Przelew od kg.47: +$500."
+      ],
+      "lastHourlyPay": 1792185829308
+    }
+  }
+}

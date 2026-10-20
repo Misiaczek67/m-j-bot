@@ -1,0 +1,38 @@
+{
+  "accounts": {
+    "1480628069579493478": {
+      "balance": 2000,
+      "cash": 0,
+      "createdAt": "2026-10-17T11:56:02.995Z"
+    }
+  },
+  "transactions": [
+    {
+      "id": "1792238162996-yiv4ps",
+      "type": "otwarcie",
+      "from": null,
+      "to": "1480628069579493478",
+      "amount": 1000,
+      "description": "Bonus gotówkowy za otwarcie konta",
+      "date": "2026-10-17T11:56:02.996Z"
+    },
+    {
+      "id": "1792238186323-d0aq6n",
+      "type": "nadanie",
+      "from": "1480628069579493478",
+      "to": "1480628069579493478",
+      "amount": 1000,
+      "description": "Nadanie przez administrację (bank)",
+      "date": "2026-10-17T11:56:26.323Z"
+    },
+    {
+      "id": "1792238199679-ol8pl7",
+      "type": "wpłata",
+      "from": "1480628069579493478",
+      "to": "1480628069579493478",
+      "amount": 1000,
+      "description": "Wpłata gotówki na konto",
+      "date": "2026-10-17T11:56:39.679Z"
+    }
+  ]
+}
